@@ -1,0 +1,26 @@
+{
+    "name": "ugly-kal",
+    "displayName": "UGLY KALEID INSPIRED THEME WHY IS THIS UPPERCASE",
+    "publisher": "bck01215-ugly",
+    "description": "ugly theme with a loud display name",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bck01215/ugly-kal.git"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "ugly-kal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/UGLY-KAL-color-theme.json"
+            }
+        ]
+    }
+}
