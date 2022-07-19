@@ -3,7 +3,7 @@
 	"displayName": "UGLY KALEID INSPIRED THEME WHY IS THIS UPPERCASE",
 	"publisher": "bck01215-ugly",
 	"description": "ugly theme with a loud display name",
-	"version": "0.1.0",
+	"version": "1.1.1",
 	"engines": {
 		"vscode": "^1.55.0"
 	},
@@ -27,6 +27,9 @@
 		"id": "790f1f76-9409-4afe-a09a-e77659000067",
 		"publisherDisplayName": "Brandon Kauffman",
 		"publisherId": "0cac31f8-f3c5-4441-a41f-1bd5e14af79d",
-		"isPreReleaseVersion": false
+		"isPreReleaseVersion": false,
+		"targetPlatform": "undefined",
+		"updated": false,
+		"preRelease": false
 	}
 }
